@@ -69,7 +69,7 @@ Default PyTorch Adam optimizer hyperparameters were used with no learning rate s
 ## Other Implementations
 - [capsnet.pytorch](https://github.com/andreaazzini/capsnet.pytorch.git)
 
-- [CapsNet-Keras](https://github.com/naturomics/XifengGuo/CapsNet-Keras.git)
+- [CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras.git)
 
 - [CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow.git)
 
